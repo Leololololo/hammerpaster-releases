@@ -4,6 +4,15 @@
     <title>Hammerpaster</title>
     <!-- ITEMS -->
     <item>
+      <title>Version 1.1.1</title>
+      <pubDate>Wed, 14 Oct 2026 23:15:38 +0200</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Erstes automatisches Update – ab jetzt kommen neue Versionen von selbst</li><li>Installations-Image liegt zusätzlich im KI Spielplatz (intern)</li></ul>]]></description>
+      <enclosure url="https://github.com/Leololololo/hammerpaster-releases/releases/download/v1.1.1/Hammerpaster-1.1.1.dmg" type="application/octet-stream" sparkle:edSignature="XvXosDEFpn5nLDkSLwEgPjthHcwUywKlmUVtyoYPNgieGFv8sx6C9mseYbgyR73/OhE3RjmCxXw1ixFWHPshCw==" length="4084903"/>
+    </item>
+    <item>
       <title>Version 1.1</title>
       <pubDate>Wed, 14 Oct 2026 23:14:04 +0200</pubDate>
       <sparkle:version>2</sparkle:version>
