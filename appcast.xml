@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Hammerpaster</title>
+    <!-- ITEMS -->
+    <item>
+      <title>Version 1.1</title>
+      <pubDate>Wed, 14 Oct 2026 23:14:04 +0200</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Tippt jetzt wie eine echte Tastatur (richtige Tasten, ⇧ und ⌥ einzeln gedrückt) – funktioniert dadurch auch in VNC-Konsolen im Browser (Hetzner, Proxmox …)</li><li>Wartet vor dem Start, bis alle Tasten des Kürzels losgelassen sind</li><li>Esc bricht ab, ohne in der Ziel-App anzukommen</li><li>Pausiert auch, wenn ein anderes Textfeld angeklickt wird – mit „Im aktuellen Feld weitertippen“</li><li>Rückfrage vor sehr langen Texten (ab 1.500 Zeichen) mit geschätzter Dauer</li><li>Hinweis statt Piepen, wenn die Zwischenablage leer ist oder keinen Text enthält</li><li>Warnung, wenn ein Tastenkürzel schon belegt ist</li><li>Eigene Tastenkürzel für Snippets</li><li>Neuer Hammer und neues App-Icon</li><li>Etwas langsameres Standard-Tempo (2×)</li><li>Automatische Updates</li></ul>]]></description>
+      <enclosure url="https://github.com/Leololololo/hammerpaster-releases/releases/download/v1.1/Hammerpaster-1.1.dmg" type="application/octet-stream" sparkle:edSignature="De3W3S5A4Xld4oDJEXfuaQA3ETvdZJMckCTJLzYfNxDYCZgq1SG7iJAdr/yU3gRZXAcrKLAlec7pRV+H7CHDAQ==" length="4084956"/>
+    </item>
+  </channel>
+</rss>
