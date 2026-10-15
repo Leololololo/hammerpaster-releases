@@ -4,6 +4,15 @@
     <title>Hammerpaster</title>
     <!-- ITEMS -->
     <item>
+      <title>Version 1.3</title>
+      <pubDate>Thu, 15 Oct 2026 17:05:25 +0200</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>27.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Ruhigeres Design im Stil von macleo.de – ohne Leuchteffekte, Knöpfe in MacLeo-Amber</li><li>Neuer Einrichtungsassistent: Begrüßung, Freischalten, Autostart und eine kurze Einführung</li><li>Neues Fenster „Über Hammerpaster“ mit Infos zu MacLeo Berlin</li><li>Hammerpaster ist kostenlos</li></ul>]]></description>
+      <enclosure url="https://github.com/Leololololo/hammerpaster-releases/releases/download/v1.3/Hammerpaster-1.3.dmg" type="application/octet-stream" sparkle:edSignature="JfgxUNJQoMIS8K/XGetAo0Z9V5H+MCQhM8mmhOlDktadTWjTaqKCHyTj2/UlF+NOZBxbA2kfw6WeMR1uFrBgCA==" length="4215633"/>
+    </item>
+    <item>
       <title>Version 1.2</title>
       <pubDate>Thu, 15 Oct 2026 16:52:56 +0200</pubDate>
       <sparkle:version>4</sparkle:version>
